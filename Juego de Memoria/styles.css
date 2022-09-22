@@ -1,0 +1,15 @@
+body{
+    background-color: indianred;
+    font-family: sans-serif;
+    color: white;
+}
+
+main{
+    border: 1px solid black;
+    margin: 30px auto;
+    display: flex;
+}
+
+.section1{
+    background-color: rgba(255,255,255,0.2);
+}
